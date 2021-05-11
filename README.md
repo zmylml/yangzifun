@@ -1,5 +1,31 @@
 如在下载软件后有使用问题，`善用搜索功能，按Ctrl+F搜索`，或提交issue。
 
+------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------
+
+
+
 <h1 align="center">Windows生产力提升（linux化）</h1>
 
 
@@ -178,3 +204,16 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 
 
+
+
+------
+
+
+
+
+
+
+
+
+
+。。。。。。。。
