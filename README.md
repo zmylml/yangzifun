@@ -12,7 +12,7 @@
 
 >打开powershell，尝试输入winget 命令，此时会报错，如下。
 
-
+<img src="img/image-20210508153551191.png" style="zoom:25%;" />
 
 ``` shell
 C:\Users\WDAGUtilityAccount> winget
@@ -34,7 +34,7 @@ At line:1 char:1
 
 
 
-<img src="https://service-34eriegw-1258263035.hk.apigw.tencentcs.com/release/SCFOnedriveIndex-1613710919/soft/%E8%BD%AF%E4%BB%B6/Windows%E5%B7%A5%E5%85%B7/img/image-20210508153900430.png" style="zoom:25%;" />
+<img src="img/image-20210508153900430.png" style="zoom:25%;" />
 
 
 
@@ -44,7 +44,7 @@ At line:1 char:1
 
 
 
-<img src="https://service-34eriegw-1258263035.hk.apigw.tencentcs.com/release/SCFOnedriveIndex-1613710919/soft/%E8%BD%AF%E4%BB%B6/Windows%E5%B7%A5%E5%85%B7/img/image-20210508154649744.png" style="zoom: 33%;" />
+<img src="img/image-20210508154649744.png" style="zoom: 33%;" />
 
 
 
