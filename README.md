@@ -26,7 +26,7 @@
 
 
 
-## 🛒 **winget使用方法**
+#### 🛒 **winget使用方法**
 
 >打开powershell，尝试输入winget 命令，此时会报错，如下。
 
@@ -46,7 +46,7 @@ At line:1 char:1
 
 
 
-### 打开功能
+#### 打开功能
 
 > 1、找到设置>>更新和安全>>开发者选项
 
@@ -147,7 +147,7 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 
 
-## 📑 应用简介
+#### 📑 应用简介
 
 在原有协议[LICENSE](https://github.com/zhzyker/vulmap/blob/main/LICENSE)中追加以下免责声明。若与原有协议冲突均以免责声明为准。  
 
@@ -160,18 +160,18 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 在使用本工具前，请您务必审慎阅读、充分理解各条款内容，限制、免责条款或者其他涉及您重大权益的条款可能会以加粗、加下划线等形式提示您重点注意。 除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要使用本工具。您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。  
 
 
-## 📺 Video demo
+#### 📺 Video demo
 
 > 哔哩哔哩 链接上传中
 
 
-## 🙋 Discussion
+#### 🙋 Discussion
 
 
 
 [阳子饭]([阳子饭 – Just another WordPress site (yangzi.fun)](https://yangzi.fun/))
 
-## 🔧 Options
+#### 🔧 Options
 
 ``` 
 可选参数:
@@ -188,7 +188,7 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
   --info        显示工具的常规信息
 ```
 
-## 🐾 参考
+#### 🐾 参考
 
 [使用 winget 工具安装和管理应用程序 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/package-manager/winget/)
 
@@ -206,7 +206,13 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 <h1 align="center">burpsuite2021.5.1使用方法</h1>
 
-#### BurpSuite2021.5.1 sha256校验码：
+#### 📂下载地址：
+
+阳子饭：[BurpSuite - 🐏阳子饭🐏 ](https://service-34eriegw-1258263035.hk.apigw.tencentcs.com/release/SCFOnedriveIndex-1613710919/soft/软件/BurpSuite/)
+
+
+
+#### 🔧BurpSuite2021.5.1 sha256校验码：
 
 ```
 burpsuite_pro_v2021.5.1.jar:
@@ -226,9 +232,116 @@ md5:
 ④运行ddosi.bat.
 ⑤然后双击burploader-old.jar
 
-![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.gif)
+
+
+#### 📺video
+
+ ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.gif)
 
 
 
 ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.1-help.png)
 
+
+
+------
+
+
+
+<h1 align="center">Acunetix Premium （AWVS）使用方法</h1>
+
+#### 📑版本：
+
+**V14.2.210503151**
+
+#### 📑Awvs14更新日期:
+
+Awvs14.1.210329187更新日期为**2021年5月4日**
+
+#### 📑Awvs14更新日志:
+
+##### 新的功能
+
+- Acunetix**现在可在Docker上使用**
+- 每次扫描的“新扫描统计信息”页面
+- 现在可以将漏洞信息发送到AWS WAF
+
+##### 新漏洞检查
+
+- 无需身份验证即可访问Hashicorp Consul API的新支票[https://www.consul.io/docs/security]
+- 多项新检查，可以无限制地访问监视系统
+- JavaScript库审核检查的改进
+- [Cisco RV系列身份验证绕过](https://www.iot-inspector.com/blog/advisory-cisco-rv34x-authentication-bypass-remote-command-execution/)（[CVE-2021-1472](https://nvd.nist.gov/vuln/detail/CVE-2021-1472)）的新检查
+- [ntopng身份验证绕过的](http://noahblog.360.cn/ntopng-multiple-vulnerabilities/)新检查（[CVE-2021-28073](https://nvd.nist.gov/vuln/detail/CVE-2021-28073)）
+- [AgentejoСockpitCMS重置密码NoSQLi的](https://swarm.ptsecurity.com/rce-cockpit-cms/)新检查（[CVE-2020-35847](https://nvd.nist.gov/vuln/detail/CVE-2020-35847)）
+- [AppWeb身份验证绕过的](https://ssd-disclosure.com/ssd-advisory-appweb-authentication-bypass-digest-and-forms/)新检查（[CVE-2018-8715](https://nvd.nist.gov/vuln/detail/CVE-2018-8715)）
+- [Apache OFBiz SOAPService反序列化RCE的](https://issues.apache.org/jira/browse/OFBIZ-12167)新检查（[CVE-2021-26295](https://nvd.nist.gov/vuln/detail/CVE-2021-26295)）
+- [F5 iControl REST未经](https://support.f5.com/csp/article/K03009991)身份[验证的远程命令执行漏洞的](https://support.f5.com/csp/article/K03009991)新检查（[CVE-2021-22986](https://nvd.nist.gov/vuln/detail/CVE-2021-22986)）
+- [Python调试器未授权访问漏洞的](https://github.com/microsoft/debugpy/)新检查
+- [虚拟主机位置错误配置的](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/)新检查
+- [请求走私的](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)新支票
+
+##### 更新
+
+- 现在可以在“排除的小时数”页面中选择完整的行和列
+- 使用新的Acunetix品牌更新了UI
+- 对于发送到任何问题跟踪器的漏洞，将显示问题跟踪器ID
+- 现在可以将问题跟踪器限制为特定的目标组
+- 目标描述将发送到问题跟踪器
+- 更新了Jira集成以支持Jira版本9
+- JAVA AcuSensor的多个更新
+- 扫描引擎现在将在没有任何输入的页面上测试Cookie
+- 扫描程序将停止测试被发现容易受到攻击的Cookie
+- DOM XSS漏洞将在可能的情况下显示易受攻击的JavaScript调用的代码段
+- CSV导出现在将显示目标地址
+- **目标中配置的自定义Cookie的最大大小增加到4096个字符**
+- 漏洞页面中的新日期过滤器
+- 漏洞严重性现在除了显示颜色编码的图标外，还显示文本
+- 对LSR的多次更新
+- 在Postman导入文件中增加了对BaseUrl / Global Variables的支持
+
+##### 修正
+
+- 修复了目标CSV导出中的额外CR
+- **修复了DeepScan崩溃**
+- 固定：发现选项仅显示给具有“访问所有目标”权限的用户
+- 固定：添加新用户时显示的现有用户详细信息
+- **修复了扫描仪崩溃**
+- 修正：盲XSS检查现在是XSS扫描配置文件的一部分
+- 修正：AcuMonitor会检查仅通过引擎安装完成的扫描时未完成的地方
+- 修复了导致使用身份验证的代理时未注册AcuMonitor的问题
+- 修复了为目标组加载漏洞时的问题
+- 已解决邮递员进口商的问题
+- 修复了在Mac上检查新的Acunetix更新时的零星问题
+- 修复了WP XMLRPC pingback检查中的问题
+
+#### 💁Awvs14官网更新日志:
+
+https://www.acunetix.com/support/build-history/
+
+#### 📂下载地址：
+
+迅雷网盘:[https://pan.xunlei.com/](https://pan.xunlei.com/s/VM_JGasvvl1USK8G1Y9X9Q-kA1) 提取码: 7g2t 	解压密码: www.ddosi.com
+
+阳子饭：[AWVS - 🐏阳子饭🐏 ](https://service-34eriegw-1258263035.hk.apigw.tencentcs.com/release/SCFOnedriveIndex-1613710919/soft/软件/AWVS/)
+
+#### 🔧Awvs14.2.210503151文件校验码：
+
+```
+SHA256
+Acunetix Premium Activation Tool.exe:
+e279cd8f02606e45d7cdcd2762cb6ea885ed7e62b46bda89cad56d680e774d29
+Acunetix Premium v14.2.210503151.exe:
+a438e6f8a2746283df35f6b7c7ace3d6e5f4253c11dfa817c48f67910d0dbd72
+```
+
+#### 🔧Awvs14.2.210503151正确打开方式[破解方法]
+
+①卸载旧版awvs
+②重启电脑
+③安装Acunetix Premium v14.2.210503151.exe
+④运行Acunetix Premium Activation Tool.exe
+
+#### 🐾 引用：
+
+[Awvs14破解版下载 Acunetix_14.2.210503151 cracked | 🔰雨苁ℒ🔰 (ddosi.com)](https://www.ddosi.com/awvs14-2/)
