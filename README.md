@@ -4,6 +4,10 @@
 
 
 
+<h1 align="center">目录</h1>
+
+
+
 
 
 
@@ -214,6 +218,29 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 
 
+<h1 align="center">burpsuite2021.5.1使用方法</h1>
+
+#### BurpSuite2021.5.1 sha256校验码：
+
+```
+burpsuite_pro_v2021.5.1.jar:
+
+sha256:
+be9f30043cb6ca7c8dbb3b183dab89fc112641cbfaa804dd44c7e2a46ad60098
+
+md5:
+4ad0d0b2016506a50dcf3101e647823c
+```
+
+#### 安装方法：
+
+①java版本≥9 , **推荐使用java13**.
+②设置环境变量
+③激活方式自行查看往期文章(搜索burp)
+④运行ddosi.bat.
+⑤然后双击burploader-old.jar
+
+![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.gif)
 
 
-。。。。。。。。
+
