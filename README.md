@@ -169,8 +169,6 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 #### 🙋 Discussion
 
-
-
 [阳子饭]([阳子饭 – Just another WordPress site (yangzi.fun)](https://yangzi.fun/))
 
 #### 🔧 Options
@@ -196,11 +194,7 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 
 
 
-
-
 ------
-
-
 
 
 
@@ -211,8 +205,6 @@ Downloading https://nmap.org/dist/nmap-7.80-setup.exe
 #### 📂下载地址：
 
 阳子饭：[BurpSuite - 🐏阳子饭🐏 ](https://service-34eriegw-1258263035.hk.apigw.tencentcs.com/release/SCFOnedriveIndex-1613710919/soft/软件/BurpSuite/)
-
-
 
 #### 🔧BurpSuite2021.5.1 sha256校验码：
 
@@ -234,17 +226,15 @@ md5:
 ④运行ddosi.bat.
 ⑤然后双击burploader-old.jar
 
-
-
 #### 📺video
 
  ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.gif)
 
-
-
 ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.1-help.png)
 
+#### 🐾 引用：
 
+[Awvs14破解版下载 Acunetix_14.2.210503151 cracked | 🔰雨苁ℒ🔰 (ddosi.com)](https://www.ddosi.com/awvs14-2/)
 
 ------
 
