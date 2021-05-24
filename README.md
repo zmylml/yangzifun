@@ -8,13 +8,9 @@
 
 **按Ctrl+F搜索以下目录内容信息**
 
-1、Windows生产力提升（linux化）
+1、[Windows生产力提升（linux化）](https://github.com/zmylml/yangzifun#windows%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%8F%90%E5%8D%87linux%E5%8C%96)
 
-2、burpsuite2021.5.1使用方法
-
-
-
-
+2、[burpsuite2021.5.1使用方法](https://github.com/zmylml/yangzifun#burpsuite202151%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
 ------
 
