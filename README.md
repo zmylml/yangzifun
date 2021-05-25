@@ -242,7 +242,7 @@ md5:
 
 #### 🐾 引用：
 
-[Awvs14破解版下载 Acunetix_14.2.210503151 cracked | 🔰雨苁ℒ🔰 (ddosi.com)](https://www.ddosi.com/awvs14-2/)
+[🔰雨苁ℒ🔰 (ddosi.com)](https://www.ddosi.com/awvs14-2/)
 
 ------
 
