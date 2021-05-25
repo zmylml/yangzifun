@@ -226,11 +226,19 @@ md5:
 ④运行ddosi.bat.
 ⑤然后双击burploader-old.jar
 
+详细安装：[Burp_suite安装及使用教程(专业版) - 停泊2019 - 博客园 (cnblogs.com)](https://www.cnblogs.com/zewutest/p/13895187.html)
+
 #### 📺video
 
  ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.gif)
 
 ![](https://github.com/zmylml/yangzifun/blob/main/img/burpsuite_pro_v2021.5.1-help.png)
+
+
+
+#### 🔧使用方法
+
+[burpsuite实战指南 (gitbooks.io)](https://t0data.gitbooks.io/burpsuite/content/)
 
 #### 🐾 引用：
 
