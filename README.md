@@ -345,3 +345,57 @@ a438e6f8a2746283df35f6b7c7ace3d6e5f4253c11dfa817c48f67910d0dbd72
 #### 🐾 引用：
 
 [Awvs14破解版下载 Acunetix_14.2.210503151 cracked | 🔰雨苁ℒ🔰 (ddosi.com)](https://www.ddosi.com/awvs14-2/)
+
+
+
+<h1 align="center">代理软件使用方法</h1>
+
+#### 📑订阅地址：
+
+[🐏阳子饭🐏 (yangzi.fun)](https://pan.yangzi.fun/vpn/订阅共享/)
+
+#### 📂软件下载地址
+
+[软件/代理软件-🐏阳子饭🐏 (yangzi.fun)](https://pan.yangzi.fun/soft/软件/代理软件/)
+
+#### 🔧使用方法
+
+1、点击下载代理软件（此处选择clash.net演示，其他软件使用方法和协议类似）
+
+2、安装代理软件 （ClashDotNet）[📂github仓库位置](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/tag/v1.1.2)
+
+①下载安装Clash.NET
+
+![(C:\Users\yang\Documents\GitHub\yangzifun\img\clashdotnet.png)
+
+<img src="img/clashdotnet.png" style="zoom: 33%;" />
+
+②安装windowsdesktop-runtime （仓库和下载库均有此文件，可以选择微软官网下载）
+
+3、添加订阅
+
+①打开代理软件，主页>>配置
+
+​	<img src="img/clash-home.png" style="zoom: 33%;" />
+
+②点击中间的加号>>添加订阅
+
+<img src="img/clash-dingyue.png" style="zoom: 33%;" />
+
+③打开订阅页面，选择最新的订阅文件打开或下载，复制短链接或长链接（链接可能存在失效），将链接填入订阅。（📑订阅地址在上面）
+
+<img src="img/clash-url.png" style="zoom: 20%;" />
+
+4、开启代理
+
+①主页>>代理,选择节点，可以点击右上角的小闪电测速，选择一个最好用的节点
+
+<img src="img/clash-jiedian.png" style="zoom: 30%;" />
+
+②点击系统代理或增强模式（点击增强后会安装插件），尝试用浏览器打开Google。
+
+💁其他软件的高级使用方法请自行谷歌搜索。
+
+🐾引用：
+
+[Release V1.1.2 - 能被后来者居上，说明始终不重要 · ClashDotNetFramework/ClashDotNetFramework (github.com)](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/tag/v1.1.2)
