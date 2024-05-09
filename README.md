@@ -3,4 +3,4 @@
 <h1 align="center">主页</h1>
 
 
-https://yangzifun.com/
+https://yangzihome.space/
